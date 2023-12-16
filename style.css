@@ -1,0 +1,79 @@
+
+.shags{
+    flex-direction:column;
+    display: flex;
+    margin-left: 300px;
+    border-right: 2px solid rgb(130, 129, 129);
+    padding-right: 80px;
+    height: 98vh
+    
+}
+.home{
+    margin-top: 70px;
+    width: 50px;
+}
+.twitter{
+    width: 70px;
+    margin-top: 10px;
+    
+}
+.hashtag{
+    width: 50px;
+    margin-top: 20px;
+}
+.user{
+    width: 50px;
+    margin-top: 20px;
+}
+.part{
+    display: flex;
+}
+.p{
+    border-top:  2px solid gray;
+}
+.mid{
+    margin-left: 30px;
+    border-right: 2px solid rgb(130, 129, 129);
+    padding-right: 80px;
+    
+
+}
+/* h2{
+    margin-top: 80px;
+} */
+.input{
+    height: 80px;
+    width: 400px;
+    background-color: rgb(217, 216, 231);
+    border-radius: 0.5rem;
+}
+.button{
+    background-color: rgb(88, 169, 223);
+    width: 100px;
+    height: 40px;
+    text-decoration: none;
+    border-radius: 0.9rem;
+}
+.mid{
+    flex-direction: column;
+    display: flex;
+    /* border-left: 2px solid black; */
+}
+.button{
+    margin-top: 20px;
+}
+.last{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.back{
+    background-color: rgb(202, 197, 197);
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.Search{
+    text-decoration: none;
+    border-radius: 0.5rem;
+    height: 20px;
+    background-color: rgb(216, 216, 245);
+}
